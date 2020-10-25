@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Roboto;
+  src: url(../assets/font/Roboto/Roboto-Black.ttf);
+  src: url(../assets/font/Roboto/Roboto-BlackItalic.ttf);
+  src: url(../assets/font/Roboto/Roboto-Bold.ttf);
+  src: url(../assets/font/Roboto/Roboto-BoldItalic.ttf);
+  src: url(../assets/font/Roboto/Roboto-Italic.ttf);
+  src: url(../assets/font/Roboto/Roboto-Medium.ttf);
+  src: url(../assets/font/Roboto/Roboto-MediumItalic.ttf);
+}
+
+body {
+  font-family: Roboto, serif;
+}

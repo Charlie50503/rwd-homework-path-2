@@ -1,0 +1,250 @@
+/* ------------------------------------------- */
+
+.header {
+  padding-top: 356px;
+  height: 958px;
+  color: white;
+}
+
+.header-banner {
+  background-image: url(../assets/photo/photo-1.png);
+  background-size: cover;
+}
+
+.header__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-title {
+  font: italic normal 900 80px/94px Roboto;
+  font-size: 80px;
+  line-height: 94px;
+}
+
+.main-title span {
+  font: italic normal bold 24px/42px Roboto;
+  font-size: 24px;
+  line-height: 42px;
+}
+
+.header__content {
+  font: italic normal bold 24px/36px Roboto;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.header__links {
+  display: flex;
+}
+
+.header__links img {
+  width: 60px;
+  height: 60px;
+}
+
+.about {
+  padding-top: 64px;
+}
+
+.about__container {
+}
+
+.about__subtitle {
+  font: italic normal medium 64px/75px Roboto;
+  font-size: 64px;
+  line-height: 75px;
+}
+
+.about__profile-photo {
+  width: 384px;
+  height: 384px;
+}
+
+.about__profile-content {
+  font: italic normal bold 24px/42px Roboto;
+  font-size: 24px;
+  line-height: 42px;
+}
+
+.about__profile-school {
+  font: italic normal bold 24px/36px Roboto;
+}
+
+.about__experience {
+  margin: 0 auto;
+  border-top: 1px solid #000;
+  width: 384px;
+  padding-top: 32px;
+  font: italic normal bold 24px/42px Roboto;
+}
+
+.about__experience p:before {
+  content: "　";
+  position: relative;
+  width: 22px;
+  height: 22px;
+  background-color: #891818;
+  border-radius: 50%;
+  right: 16px;
+}
+
+.brand {
+  background-color: #000000;
+  color: white;
+  padding-top: 64px;
+  padding-bottom: 160px;
+}
+
+.brand__container {
+}
+
+.brand__subtitle {
+  font: italic normal medium 64px/75px Roboto;
+  font-size: 64px;
+  line-height: 75px;
+}
+
+.brand__one-sentence {
+  font: italic normal medium 24px/42px Roboto;
+  font-size: 24px;
+  line-height: 42px;
+}
+
+.brand__idea {
+  font: italic normal medium 20px/30px Roboto;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.brand__content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.other-works {
+  padding-top: 64px;
+  padding-bottom: 160px;
+}
+
+.other-works__container {
+}
+
+.other-works__maintitle {
+  font: italic normal medium 64px/75px Roboto;
+  font-size: 64px;
+  line-height: 75px;
+}
+
+.other-works__subtitle {
+  font: italic normal medium 20px/30px Roboto;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.other-works__content p {
+  font: italic normal medium 20px/42px Roboto;
+  font-size: 20px;
+  line-height: 42px;
+  text-align: center;
+}
+
+.other-works__poster-design {
+  display: flex;
+}
+
+.other-works__concept-photography {
+  display: flex;
+}
+
+.other-works__concept-photography div {
+  width: 588px;
+  height: 416px;
+}
+
+.other-works__other-design {
+  display: flex;
+}
+
+.photo-concept {
+  width: 588px;
+  height: 416px;
+  margin: 0 auto;
+}
+
+.photo-snow {
+  background-image: url(../assets/photo/other/photo-1520772542749-6c5ec0bc7db0.png);
+  background-size: cover;
+}
+
+.photo-back-view {
+  background-image: url(../assets/photo/other/photo-1515768450795-e3c5a297e42d.png);
+  background-size: cover;
+}
+
+.photo-other {
+  width: 384px;
+  height: 280px;
+  margin: 0 auto;
+}
+
+.photo-beer {
+  background-image: url(../assets/photo/other/photo-1525059607947-6300d0b58555.png);
+  background-size: cover;
+}
+
+.photo-shot {
+  background-image: url(../assets/photo/other/photo-1576704824294-d0288f962c85.png);
+  background-size: cover;
+}
+
+.photo-web-design {
+  background-image: url(../assets/photo/other/Web-Material-Design-Leading.png);
+  background-size: cover;
+}
+
+.photo-poster {
+  width: 384px;
+  height: 528px;
+  margin: 0 auto;
+}
+
+.photo-poster-todo {
+  background-image: url(../assets/photo/other/photo-1559257613-1cf58e21af2b.png);
+  background-size: cover;
+}
+
+.poster-poster-sword {
+  background-image: url(../assets/photo/other/photo-1581715895976-3bdcd7cdd004.png);
+  background-size: cover;
+}
+
+.poster-poster-color {
+  background-image: url(../assets/photo/other/photo-1544733422-251e532ca221.png);
+  background-size: cover;
+}
+
+.footer {
+  background-color: #000000;
+  color: white;
+  padding-top: 64px;
+  padding-bottom: 80px;
+}
+
+.footer-container {
+}
+
+.footer__title {
+  font: italic normal medium 64px/75px Roboto;
+  font-size: 64px;
+  line-height: 75px;
+}
+
+.footer__content {
+  font: italic normal medium 24px/36px Roboto;
+  font-size: 24px;
+  line-height: 36px;
+}
