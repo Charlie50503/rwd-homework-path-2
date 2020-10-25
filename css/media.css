@@ -9,7 +9,7 @@
   }
 
   .header__container {
-    background-image: url(../assets/photo/photo-1.png);
+    background: url(../assets/photo/photo-1.png) center center;
     background-size: cover;
   }
 

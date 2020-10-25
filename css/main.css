@@ -2,12 +2,13 @@
 
 .header {
   padding-top: 356px;
-  height: 958px;
+  /* height: 958px; */
+  height: 100%;
   color: white;
 }
 
 .header-banner {
-  background-image: url(../assets/photo/photo-1.png);
+  background: url(../assets/photo/photo-1.png) center center;
   background-size: cover;
 }
 
@@ -16,6 +17,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-bottom: 268px;
 }
 
 .main-title {
