@@ -22,19 +22,19 @@
 }
 
 .main-title {
-  font: italic normal 900 80px/94px Roboto;
+  font: italic normal 900 80px/94px "Roboto";
   font-size: 80px;
   line-height: 94px;
 }
 
 .main-title span {
-  font: italic normal bold 24px/42px Roboto;
+  font: italic normal bold 24px/42px "Roboto";
   font-size: 24px;
   line-height: 42px;
 }
 
 .header__content {
-  font: italic normal bold 24px/36px Roboto;
+  font: italic normal bold 24px/36px "Roboto";
   font-size: 24px;
   line-height: 32px;
 }
@@ -62,7 +62,7 @@
 }
 
 .about__title {
-  font: italic normal medium 64px/75px Roboto;
+  font: italic normal normal 64px/75px "Roboto";
   font-size: 64px;
   line-height: 75px;
 }
@@ -73,13 +73,13 @@
 }
 
 .about__profile-content {
-  font: italic normal bold 24px/42px Roboto;
+  font: italic normal bold 24px/42px "Roboto";
   font-size: 24px;
   line-height: 42px;
 }
 
 .about__profile-school {
-  font: italic normal bold 24px/36px Roboto;
+  font: italic normal bold 24px/36px "Roboto";
 }
 
 .about__experience {
@@ -87,7 +87,7 @@
   border-top: 1px solid #000;
   width: 384px;
   padding-top: 32px;
-  font: italic normal bold 24px/42px Roboto;
+  font: italic normal bold 24px/42px "Roboto";
 }
 
 .about__experience p:before {
@@ -111,19 +111,19 @@
 }
 
 .brand__title {
-  font: italic normal medium 64px/75px Roboto;
+  font: italic normal medium 64px/75px "Roboto";
   font-size: 64px;
   line-height: 75px;
 }
 
 .brand__one-sentence {
-  font: italic normal medium 24px/42px Roboto;
+  font: italic normal medium 24px/42px "Roboto";
   font-size: 24px;
   line-height: 42px;
 }
 
 .brand__idea {
-  font: italic normal medium 20px/30px Roboto;
+  font: italic normal medium 20px/30px "Roboto";
   font-size: 20px;
   line-height: 30px;
 }
@@ -143,19 +143,19 @@
 }
 
 .other-works__maintitle {
-  font: italic normal medium 64px/75px Roboto;
+  font: italic normal medium 64px/75px "Roboto";
   font-size: 64px;
   line-height: 75px;
 }
 
 .other-works__subtitle {
-  font: italic normal medium 20px/30px Roboto;
+  font: italic normal medium 20px/30px "Roboto";
   font-size: 20px;
   line-height: 30px;
 }
 
 .other-works__content p {
-  font: italic normal medium 20px/42px Roboto;
+  font: italic normal medium 20px/42px "Roboto";
   font-size: 20px;
   line-height: 42px;
   text-align: center;
@@ -254,13 +254,13 @@
 }
 
 .footer__title {
-  font: italic normal medium 64px/75px Roboto;
+  font: italic normal medium 64px/75px "Roboto";
   font-size: 64px;
   line-height: 75px;
 }
 
 .footer__content {
-  font: italic normal medium 24px/36px Roboto;
+  font: italic normal medium 24px/36px "Roboto";
   font-size: 24px;
   line-height: 36px;
 }
