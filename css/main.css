@@ -10,6 +10,7 @@
 .header-banner {
   background: url(../assets/photo/photo-1.png) center center;
   background-size: cover;
+  height: 958px;
 }
 
 .header__container {
@@ -52,6 +53,12 @@
 }
 
 .about__container {
+}
+
+.about__photo {
+  /* margin: 0 auto; */
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .about__title {
@@ -154,6 +161,16 @@
   text-align: center;
 }
 
+.other-works__photo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.other-works__photo li {
+  margin-bottom: 56px;
+}
+
 .other-works__poster-design {
   display: flex;
 }
@@ -174,7 +191,6 @@
 .photo-concept {
   width: 588px;
   height: 416px;
-  margin: 0 auto;
 }
 
 .photo-snow {
@@ -190,7 +206,6 @@
 .photo-other {
   width: 384px;
   height: 280px;
-  margin: 0 auto;
 }
 
 .photo-beer {
@@ -211,7 +226,6 @@
 .photo-poster {
   width: 384px;
   height: 528px;
-  margin: 0 auto;
 }
 
 .photo-poster-todo {
@@ -249,4 +263,29 @@
   font: italic normal medium 24px/36px Roboto;
   font-size: 24px;
   line-height: 36px;
+}
+
+.footer__link {
+  color: white;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: 100vw;
+    margin: 0 auto;
+  }
+
+  .brand__content li {
+    margin-left: 0;
+    margin-bottom: 40px;
+  }
+
+  .other-works__photo li {
+    width: 100%;
+  }
+
+  .other-works__photo div {
+    margin: 0 auto;
+  }
 }

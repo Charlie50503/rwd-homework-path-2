@@ -46,3 +46,16 @@
   width: 1200px;
   margin: 0 auto;
 }
+
+img {
+  display: block;
+}
+
+a:hover {
+  color: #ceadad;
+}
+
+a:hover img {
+  left: -3px;
+  filter: drop-shadow(#ceadad 3px 3px 0);
+}
